@@ -1,0 +1,392 @@
+[
+  {
+    "query": "How many business days does regular delivery take in the US?",
+    "relevant_docs": [
+      "DOC-001"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "When should I expect my standard shipping order to arrive?",
+    "relevant_docs": [
+      "DOC-001"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "How much do express and next-day shipping options cost?",
+    "relevant_docs": [
+      "DOC-002"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "What are the delivery times and prices for faster shipping?",
+    "relevant_docs": [
+      "DOC-002"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "Can you deliver purchases to countries outside the United States?",
+    "relevant_docs": [
+      "DOC-003"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "How long does an overseas shipment take, and who pays customs charges?",
+    "relevant_docs": [
+      "DOC-003"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "Can I correct my delivery address after submitting an order?",
+    "relevant_docs": [
+      "DOC-004"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "Is it possible to redirect a package after it reaches the warehouse?",
+    "relevant_docs": [
+      "DOC-004"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "How long do I have to send back an unused item?",
+    "relevant_docs": [
+      "DOC-005"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "What condition must a product be in to qualify for a return?",
+    "relevant_docs": [
+      "DOC-005"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "Do I have to pay postage when returning a faulty product?",
+    "relevant_docs": [
+      "DOC-006"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "Is there a charge for a return label if I simply changed my mind?",
+    "relevant_docs": [
+      "DOC-006"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "Which products cannot be returned or exchanged?",
+    "relevant_docs": [
+      "DOC-007"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "Can I send back a gift card or a personalized item?",
+    "relevant_docs": [
+      "DOC-007"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "After my return is approved, when will the money reach my original payment method?",
+    "relevant_docs": [
+      "DOC-008"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "How many business days does a normal refund take after inspection?",
+    "relevant_docs": [
+      "DOC-008"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "Can I choose store credit instead of receiving money back?",
+    "relevant_docs": [
+      "DOC-009"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "Is there a bonus for choosing store credit?",
+    "relevant_docs": [
+      "DOC-009"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "What should I do if my refund has not arrived after several days?",
+    "relevant_docs": [
+      "DOC-010"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "Who should I contact when a refund is delayed by my bank?",
+    "relevant_docs": [
+      "DOC-010"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "What is the recommended way to wash organic cotton clothing?",
+    "relevant_docs": [
+      "DOC-011"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "Can I use chlorine bleach on your organic cotton garments?",
+    "relevant_docs": [
+      "DOC-011"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "How do I pair my smartwatch with my phone?",
+    "relevant_docs": [
+      "DOC-012"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "My watch is not connecting to the mobile app. What pairing steps should I follow?",
+    "relevant_docs": [
+      "DOC-012"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "Can I wear your activewear device while swimming?",
+    "relevant_docs": [
+      "DOC-013"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "Is the watch safe for deep diving or use in a hot tub?",
+    "relevant_docs": [
+      "DOC-013"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "How long is the manufacturer's warranty on electronic products?",
+    "relevant_docs": [
+      "DOC-014"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "Does the standard warranty cover accidental drops or liquid damage?",
+    "relevant_docs": [
+      "DOC-014"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "Can I purchase additional protection for accidental damage?",
+    "relevant_docs": [
+      "DOC-015"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "What accidental damage protection comes with the three-year warranty?",
+    "relevant_docs": [
+      "DOC-015"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "How can I submit a claim for a defective electronic product?",
+    "relevant_docs": [
+      "DOC-016"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "What documents and evidence do I need to email for a warranty claim?",
+    "relevant_docs": [
+      "DOC-016"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "Which credit cards and digital wallets can I use at checkout?",
+    "relevant_docs": [
+      "DOC-017"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "Do you support PayPal, Apple Pay, or installment payments?",
+    "relevant_docs": [
+      "DOC-017"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "How is sales tax calculated on orders shipped within America?",
+    "relevant_docs": [
+      "DOC-018"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "Are international orders charged sales tax?",
+    "relevant_docs": [
+      "DOC-018"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "I was charged twice for one purchase. How do I report this?",
+    "relevant_docs": [
+      "DOC-019"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "How long after purchase can I dispute an unexpected billing fee?",
+    "relevant_docs": [
+      "DOC-019"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "My tracking says delivered but I cannot locate the parcel. What now?",
+    "relevant_docs": [
+      "DOC-020"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "How soon must I report a package that was marked delivered but never arrived?",
+    "relevant_docs": [
+      "DOC-020"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "How should I clean and dry my silk sleep mask?",
+    "relevant_docs": [
+      "DOC-021"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "Can I put the silk sleep mask in a washing machine or dryer?",
+    "relevant_docs": [
+      "DOC-021"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "Is there an extended return deadline for holiday purchases?",
+    "relevant_docs": [
+      "DOC-022"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "When is the last day to return an unused item bought in December?",
+    "relevant_docs": [
+      "DOC-022"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "My order arrived with a damaged product. How do I report it?",
+    "relevant_docs": [
+      "DOC-023"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "What evidence do you need before arranging a replacement for a defective delivery?",
+    "relevant_docs": [
+      "DOC-023"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "Can I stop an order that has not left the processing stage?",
+    "relevant_docs": [
+      "DOC-024"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "Can a shipped order still be cancelled?",
+    "relevant_docs": [
+      "DOC-024"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "What are the conditions for exchanging an unused purchase?",
+    "relevant_docs": [
+      "DOC-025"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "Can I exchange a product after buying it, and is there a label fee?",
+    "relevant_docs": [
+      "DOC-025"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "I want to return a faulty item. Is the return label free, and what should I send to support?",
+    "relevant_docs": [
+      "DOC-006",
+      "DOC-023"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "Can I exchange a final sale item, and what is the normal exchange period?",
+    "relevant_docs": [
+      "DOC-007",
+      "DOC-025"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "My refund is delayed. How long should processing take, and who should I contact if it is late?",
+    "relevant_docs": [
+      "DOC-008",
+      "DOC-010"
+    ],
+    "split": "dev"
+  },
+  {
+    "query": "Do you ship internationally, and will I pay customs duties or US sales tax?",
+    "relevant_docs": [
+      "DOC-003",
+      "DOC-018"
+    ],
+    "split": "holdout"
+  },
+  {
+    "query": "What are the return conditions and label charges if I change my mind about an unused product?",
+    "relevant_docs": [
+      "DOC-005",
+      "DOC-006"
+    ],
+    "split": "dev"
+  }
+]

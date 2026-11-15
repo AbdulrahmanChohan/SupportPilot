@@ -1,0 +1,42 @@
+[
+  {
+    "query": "How long does normal shipping take inside US?",
+    "expected_doc_id": "DOC-001"
+  },
+  {
+    "query": "Can I return an opened product?",
+    "expected_doc_id": "DOC-005"
+  },
+  {
+    "query": "What is the refund processing time?",
+    "expected_doc_id": "DOC-008"
+  },
+  {
+    "query": "Do you offer international delivery?",
+    "expected_doc_id": "DOC-003"
+  },
+  {
+    "query": "My order arrived damaged. What should I do?",
+    "expected_doc_id": "DOC-023"
+  },
+  {
+    "query": "Can I cancel an order after placing it?",
+    "expected_doc_id": "DOC-024"
+  },
+  {
+    "query": "What payment methods do you accept?",
+    "expected_doc_id": "DOC-017"
+  },
+  {
+    "query": "Is expedited shipping available?",
+    "expected_doc_id": "DOC-002"
+  },
+  {
+    "query": "How do I exchange a product?",
+    "expected_doc_id": "DOC-025"
+  },
+  {
+    "query": "What is your warranty policy?",
+    "expected_doc_id": "DOC-014"
+  }
+]

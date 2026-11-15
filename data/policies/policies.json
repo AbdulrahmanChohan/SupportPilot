@@ -1,0 +1,152 @@
+[
+  {
+    "doc_id": "DOC-001",
+    "category": "Shipping",
+    "title": "Standard Shipping Timelines",
+    "content": "Standard shipping takes 3 to 5 business days within the continental United States. Orders are processed within 24 hours of placement, excluding Sundays and federal holidays."
+  },
+  {
+    "doc_id": "DOC-002",
+    "category": "Shipping",
+    "title": "Expedited and Overnight Shipping",
+    "content": "Expedited shipping takes 2 business days and costs a flat rate of $15.00. Overnight shipping guarantees next-day delivery if ordered before 2 PM EST, priced at $35.00."
+  },
+  {
+    "doc_id": "DOC-003",
+    "category": "Shipping",
+    "title": "International Delivery Policy",
+    "content": "We ship internationally to over 50 countries. International delivery takes 7 to 14 business days. Customers are responsible for any customs duties, import tariffs, or brokerage fees levied at the border."
+  },
+  {
+    "doc_id": "DOC-004",
+    "category": "Shipping",
+    "title": "Address Changes and Redirection",
+    "content": "Shipping addresses can only be modified within 1 hour of placing an order. Once an order is sent to the fulfillment warehouse, the shipping carrier cannot redirect the package."
+  },
+  {
+    "doc_id": "DOC-005",
+    "category": "Returns",
+    "title": "30-Day Return Window",
+    "content": "Customers can return unused items in their original packaging within 30 days of the purchase date. The items must show no signs of physical wear or damage to qualify."
+  },
+  {
+    "doc_id": "DOC-006",
+    "category": "Returns",
+    "title": "Return Shipping Labels",
+    "content": "We provide free return shipping labels for defective items or order mistakes. For voluntary returns (e.g., change of mind, size exchange), a $6.00 return label fee is deducted from your final refund."
+  },
+  {
+    "doc_id": "DOC-007",
+    "category": "Returns",
+    "title": "Non-Returnable Items",
+    "content": "Final sale items, gift cards, personalized custom products, and personal hygiene products (such as underwear or opened cosmetics) are strictly non-returnable and non-exchangeable."
+  },
+  {
+    "doc_id": "DOC-008",
+    "category": "Refunds",
+    "title": "Refund Processing Methods",
+    "content": "Refunds are processed back to the original form of payment within 5 to 7 business days after our return facility inspects and approves the returned items."
+  },
+  {
+    "doc_id": "DOC-009",
+    "category": "Refunds",
+    "title": "Store Credit and Gift Cards",
+    "content": "Instead of a refund to your credit card, you can opt for store credit. Store credit is issued instantly upon inspection approval and includes an extra 10% bonus credit toward your next purchase."
+  },
+  {
+    "doc_id": "DOC-010",
+    "category": "Refunds",
+    "title": "Late or Missing Refunds",
+    "content": "If you have not received your refund within 10 business days, first contact your financial institution. Processing delays can occur at banks. If still unresolved, reach out to our support billing team."
+  },
+  {
+    "doc_id": "DOC-011",
+    "category": "Products",
+    "title": "Eco-Friendly Apparel Care Instructions",
+    "content": "Our organic cotton clothing should be machine washed cold with mild detergent on a gentle cycle. To prevent shrinkage, tumble dry low or hang dry. Do not use chlorine bleach."
+  },
+  {
+    "doc_id": "DOC-012",
+    "category": "Products",
+    "title": "Smart Watch Synchronization",
+    "content": "To sync your SupportPilot Smart Watch, enable Bluetooth on your smartphone, open our mobile app, and select 'Pair New Device'. Ensure the watch is within 5 feet of the phone during pairing."
+  },
+  {
+    "doc_id": "DOC-013",
+    "category": "Products",
+    "title": "Water Resistance Ratings",
+    "content": "Our activewear devices carry a 5 ATM water resistance rating, meaning they can withstand pressures equivalent to a depth of 50 meters. They are suitable for swimming but not for deep diving or hot tubs."
+  },
+  {
+    "doc_id": "DOC-014",
+    "category": "Warranties",
+    "title": "Standard 1-Year Limited Warranty",
+    "content": "All electronic products are covered by a 1-year limited warranty against hardware manufacturing defects. It covers parts and labor but excludes coverage for physical drops, accidents, or liquid damage."
+  },
+  {
+    "doc_id": "DOC-015",
+    "category": "Warranties",
+    "title": "Extended Warranty Plans",
+    "content": "Our 3-year Extended Warranty can be purchased at checkout. This plan adds accidental damage protection, covering up to two screen replacements or complete hardware swaps due to spills."
+  },
+  {
+    "doc_id": "DOC-016",
+    "category": "Warranties",
+    "title": "Filing a Warranty Claim",
+    "content": "To file a warranty claim, email warranty@supportpilot.com with your original order receipt, product serial number, and a brief video or photo demonstrating the physical malfunction."
+  },
+  {
+    "doc_id": "DOC-017",
+    "category": "Payment",
+    "title": "Accepted Payment Methods",
+    "content": "We accept Visa, Mastercard, American Express, Discover, PayPal, Apple Pay, Google Pay, and interest-free installment payments through Klarna or Affirm at checkout."
+  },
+  {
+    "doc_id": "DOC-018",
+    "category": "Payment",
+    "title": "Sales Tax Information",
+    "content": "Sales tax is automatically computed based on local destination laws and is applied to orders shipping within the United States. No sales tax is added for international orders."
+  },
+  {
+    "doc_id": "DOC-019",
+    "category": "Payment",
+    "title": "Billing and Order Discrepancies",
+    "content": "If you notice double charges or unexpected fees on your statement, contact support within 60 days of purchase. We will audit the transaction and correct genuine billing errors."
+  },
+  {
+    "doc_id": "DOC-020",
+    "category": "Shipping",
+    "title": "Lost or Stolen Packages",
+    "content": "If your tracking details state delivered but you cannot find your package, check with neighbors or building managers. You must report a missing package to support within 7 days of the marked delivery."
+  },
+  {
+    "doc_id": "DOC-021",
+    "category": "Products",
+    "title": "Organic Sleep Mask Maintenance",
+    "content": "Our silk sleep masks are delicate and must be hand washed using lukewarm water and silk-safe soap. Lay flat on a clean dry towel to dry. Do not wring or dry clean."
+  },
+  {
+    "doc_id": "DOC-022",
+    "category": "Returns",
+    "title": "Holiday Extended Return Policy",
+    "content": "For items purchased between November 1 and December 25, the deadline for returning unused goods is extended until January 31 of the following year."
+  },
+  {
+    "doc_id": "DOC-023",
+    "category": "Returns",
+    "title": "Damaged or Defective Deliveries",
+    "content": "Customers who receive damaged or defective products should contact customer support with their order ID and photographs of the damage. Support will review the case and arrange a replacement or refund."
+  },
+  {
+    "doc_id": "DOC-024",
+    "category": "Orders",
+    "title": "Order Cancellation Policy",
+    "content": "Customers may request order cancellation while their order status is still processing. Once an order has shipped, cancellation is no longer available, and customers should follow standard return procedures."
+  },
+  {
+    "doc_id": "DOC-025",
+    "category": "Returns",
+    "title": "Product Exchange Policy",
+    "content": "Customers may request an exchange within 30 days of purchase for eligible unused products in their original packaging. Voluntary exchanges are subject to a $6.00 return label fee. Final sale items and hygiene items are not eligible."
+  }
+]
