@@ -1,0 +1,166 @@
+[
+  {
+    "query": "When should I expect my standard shipping order to arrive?",
+    "relevant_docs": [
+      "DOC-001"
+    ]
+  },
+  {
+    "query": "What are the delivery times and prices for faster shipping?",
+    "relevant_docs": [
+      "DOC-002"
+    ]
+  },
+  {
+    "query": "How long does an overseas shipment take, and who pays customs charges?",
+    "relevant_docs": [
+      "DOC-003"
+    ]
+  },
+  {
+    "query": "Is it possible to redirect a package after it reaches the warehouse?",
+    "relevant_docs": [
+      "DOC-004"
+    ]
+  },
+  {
+    "query": "What condition must a product be in to qualify for a return?",
+    "relevant_docs": [
+      "DOC-005"
+    ]
+  },
+  {
+    "query": "Is there a charge for a return label if I simply changed my mind?",
+    "relevant_docs": [
+      "DOC-006"
+    ]
+  },
+  {
+    "query": "Can I send back a gift card or a personalized item?",
+    "relevant_docs": [
+      "DOC-007"
+    ]
+  },
+  {
+    "query": "How many business days does a normal refund take after inspection?",
+    "relevant_docs": [
+      "DOC-008"
+    ]
+  },
+  {
+    "query": "Is there a bonus for choosing store credit?",
+    "relevant_docs": [
+      "DOC-009"
+    ]
+  },
+  {
+    "query": "Who should I contact when a refund is delayed by my bank?",
+    "relevant_docs": [
+      "DOC-010"
+    ]
+  },
+  {
+    "query": "Can I use chlorine bleach on your organic cotton garments?",
+    "relevant_docs": [
+      "DOC-011"
+    ]
+  },
+  {
+    "query": "My watch is not connecting to the mobile app. What pairing steps should I follow?",
+    "relevant_docs": [
+      "DOC-012"
+    ]
+  },
+  {
+    "query": "Is the watch safe for deep diving or use in a hot tub?",
+    "relevant_docs": [
+      "DOC-013"
+    ]
+  },
+  {
+    "query": "Does the standard warranty cover accidental drops or liquid damage?",
+    "relevant_docs": [
+      "DOC-014"
+    ]
+  },
+  {
+    "query": "What accidental damage protection comes with the three-year warranty?",
+    "relevant_docs": [
+      "DOC-015"
+    ]
+  },
+  {
+    "query": "What documents and evidence do I need to email for a warranty claim?",
+    "relevant_docs": [
+      "DOC-016"
+    ]
+  },
+  {
+    "query": "Do you support PayPal, Apple Pay, or installment payments?",
+    "relevant_docs": [
+      "DOC-017"
+    ]
+  },
+  {
+    "query": "Are international orders charged sales tax?",
+    "relevant_docs": [
+      "DOC-018"
+    ]
+  },
+  {
+    "query": "How long after purchase can I dispute an unexpected billing fee?",
+    "relevant_docs": [
+      "DOC-019"
+    ]
+  },
+  {
+    "query": "How soon must I report a package that was marked delivered but never arrived?",
+    "relevant_docs": [
+      "DOC-020"
+    ]
+  },
+  {
+    "query": "Can I put the silk sleep mask in a washing machine or dryer?",
+    "relevant_docs": [
+      "DOC-021"
+    ]
+  },
+  {
+    "query": "When is the last day to return an unused item bought in December?",
+    "relevant_docs": [
+      "DOC-022"
+    ]
+  },
+  {
+    "query": "What evidence do you need before arranging a replacement for a defective delivery?",
+    "relevant_docs": [
+      "DOC-023"
+    ]
+  },
+  {
+    "query": "Can a shipped order still be cancelled?",
+    "relevant_docs": [
+      "DOC-024"
+    ]
+  },
+  {
+    "query": "Can I exchange a product after buying it, and is there a label fee?",
+    "relevant_docs": [
+      "DOC-025"
+    ]
+  },
+  {
+    "query": "Can I exchange a final sale item, and what is the normal exchange period?",
+    "relevant_docs": [
+      "DOC-007",
+      "DOC-025"
+    ]
+  },
+  {
+    "query": "Do you ship internationally, and will I pay customs duties or US sales tax?",
+    "relevant_docs": [
+      "DOC-003",
+      "DOC-018"
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "query": "How long does standard shipping take?",
+    "relevant_docs": [
+      "DOC-001"
+    ]
+  },
+  {
+    "query": "When will my domestic order arrive?",
+    "relevant_docs": [
+      "DOC-001"
+    ]
+  },
+  {
+    "query": "Can I get my order delivered overnight?",
+    "relevant_docs": [
+      "DOC-002"
+    ]
+  },
+  {
+    "query": "What is the cost of express shipping?",
+    "relevant_docs": [
+      "DOC-002"
+    ]
+  },
+  {
+    "query": "Do you ship internationally?",
+    "relevant_docs": [
+      "DOC-003"
+    ]
+  },
+  {
+    "query": "Can customers outside the US place orders?",
+    "relevant_docs": [
+      "DOC-003"
+    ]
+  },
+  {
+    "query": "I entered the wrong delivery address. Can you fix it?",
+    "relevant_docs": [
+      "DOC-004"
+    ]
+  },
+  {
+    "query": "Can I update my shipping details after checkout?",
+    "relevant_docs": [
+      "DOC-004"
+    ]
+  },
+  {
+    "query": "What is the return period for unused products?",
+    "relevant_docs": [
+      "DOC-005"
+    ]
+  },
+  {
+    "query": "Can I return an unused item?",
+    "relevant_docs": [
+      "DOC-005"
+    ]
+  },
+  {
+    "query": "Who pays for return shipping on defective products?",
+    "relevant_docs": [
+      "DOC-006"
+    ]
+  },
+  {
+    "query": "How do I get a prepaid return label?",
+    "relevant_docs": [
+      "DOC-006"
+    ]
+  },
+  {
+    "query": "The tracking says delivered but nothing arrived.",
+    "relevant_docs": [
+      "DOC-020"
+    ]
+  },
+  {
+    "query": "My parcel is missing. What should I do?",
+    "relevant_docs": [
+      "DOC-020"
+    ]
+  },
+  {
+    "query": "My product arrived broken. What are my options?",
+    "relevant_docs": [
+      "DOC-023"
+    ]
+  },
+  {
+    "query": "How do I report damaged merchandise?",
+    "relevant_docs": [
+      "DOC-023"
+    ]
+  },
+  {
+    "query": "I no longer want my order. Can I cancel it?",
+    "relevant_docs": [
+      "DOC-024"
+    ]
+  },
+  {
+    "query": "How do I request an order cancellation?",
+    "relevant_docs": [
+      "DOC-024"
+    ]
+  },
+  {
+    "query": "Can I swap my purchased item for another one?",
+    "relevant_docs": [
+      "DOC-025"
+    ]
+  },
+  {
+    "query": "What is the exchange procedure?",
+    "relevant_docs": [
+      "DOC-025"
+    ]
+  }
+]
